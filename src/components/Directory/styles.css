@@ -1,0 +1,30 @@
+
+
+.item{
+    position: relative;
+    width: 50%;
+    height: 500px;
+    float:left;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px;
+    display: table;
+    
+}
+
+
+
+a{
+    background: white;
+    position: relative;
+    z-index: 2;
+    top: 100%; left: 50%;
+    font-size: 2rem;
+    line-height: 1;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 8px 10px;
+    border: 1px solid black;
+
+}
